@@ -14,7 +14,7 @@
         <paper.version>1.15.2-R0.1-SNAPSHOT</paper.version>
         <chitchat.version>2.1.2-SNAPSHOT</chitchat.version>
         <worldguard.version>7.0.3-SNAPSHOT</worldguard.version>
-        <mongodb.version>3.12.1</mongodb.version>
+        <mongodb.version>3.12.8</mongodb.version>
     </properties>
 
     <repositories>
